@@ -1,0 +1,2 @@
+pretty-errors==1.2.25
+pillow==11.0.0

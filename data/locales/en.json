@@ -1,0 +1,6 @@
+{
+  "welcome_message": "Welcome, {name}!",
+  "items_count": "{count} item(s)",
+  "new_messages": "You have {count} new message(s)",
+  "farewell": "Goodbye!"
+}
